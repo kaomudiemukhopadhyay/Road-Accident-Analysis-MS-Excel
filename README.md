@@ -1,16 +1,15 @@
-# Road-Accident-Analysis-MS-Excel
+# 🚦 Road Accident Analysis – MS Excel (End-to-End Project)
 Developed a Road Accident Analysis project in Excel by performing data cleaning, transformation, and analysis. Used formulas, pivot tables, and charts to calculate KPIs like total casualties, severity distribution, and trends, and created a dashboard for clear insights and reporting.
 https://drive.google.com/file/d/1caL5IkQonhKyjK5KXtRcVgBs4kYKLF6b/view?usp=drive_link
+
+Dashboard: <img width="1231" height="590" alt="image" src="https://github.com/user-attachments/assets/22e4fad3-e85e-42d9-b6f0-e31958de3c69" />
+
+Data Analysis :<img width="1185" height="587" alt="image" src="https://github.com/user-attachments/assets/af770f2f-2a44-4d29-a4d3-c2f6cbdde0bb" />
 
 
 NOTE:📥 Full Dataset (ZIP):
 https://your-google-drive-link
 Note: Google Drive may show a warning for large files. This is normal and safe to proceed with download.
-
-
-# 🚦 Road Accident Analysis – MS Excel (End-to-End Project)
-
----
 
 ## 📌 Project Summary
 
